@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Reyaz Ahmad<br><br>🚀 Passionate about building AI-powered tools & scalable web apps<br>💻 Currently working on an AI Study Assistant<br>📚 Learning Data Structures & Algorithms (visually)
+👋 Hi, I'm Reyaz Ahmad<br><br>🚀 Passionate about building AI-powered tools & scalable web apps<br>💻 Currently working on an AI Study Assistant<br>📚 
 
 
 ## 🌐 Socials:
